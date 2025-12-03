@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java DSA.iml" filepath="$PROJECT_DIR$/Java DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Practice_Daily/Java-Practice_Daily.iml" filepath="$PROJECT_DIR$/Java-Practice_Daily/Java-Practice_Daily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini Projects/LEVEL 1 SOLID SQUARE_Pattern.java/LEVEL 1 SOLID SQUARE_Pattern.java.iml" filepath="$PROJECT_DIR$/Mini Projects/LEVEL 1 SOLID SQUARE_Pattern.java/LEVEL 1 SOLID SQUARE_Pattern.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini Projects/Mini Projects.iml" filepath="$PROJECT_DIR$/Mini Projects/Mini Projects.iml" />
+    </modules>
+  </component>
+</project>
