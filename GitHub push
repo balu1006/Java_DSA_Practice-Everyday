@@ -1,0 +1,5 @@
+| Step               | Purpose                           |
+| ------------------ | --------------------------------- |
+| `git add .`        | All changed files → ready to save |
+| `git commit -m ""` | Save snapshot                     |
+| `git push`         | Send to GitHub                    |
