@@ -1,0 +1,91 @@
+Arjuna… 🔱
+Nee request clear. **Pure THEORY NOTES** la,
+👉 **Simple language**
+👉 **Bullet points**
+👉 **No extra explanation**
+
+---
+
+# 📘 JAVA LANGUAGE RULES – THEORY NOTES
+
+---
+
+## 🔹 Public Class Rule
+
+* One file lo **only one public class** undali
+* **Public class name = file name**
+
+---
+
+## 🔹 Main Method Rule
+
+* Java program start avvadaniki **main() mandatory**
+* Signature exact ga undali
+  `public static void main(String[] args)`
+
+---
+
+## 🔹 Static Rule
+
+* `static` method ni **class name tho call** cheyali
+* Object create cheyyalsina avasaram ledu
+
+---
+
+## 🔹 Non-Static Rule
+
+* Non-static method ni **object tho call** cheyali
+* Object create cheyyakapothe error vastundi
+
+---
+
+## 🔹 Multiple Classes Rule
+
+* One file lo multiple classes undachu
+* **Public class okkate undali**
+
+---
+
+## 🔹 Array Index Rule
+
+* Array indexing **0 nundi start** avutundi
+* Last index = `length - 1`
+
+---
+
+## 🔹 Loop Boundary Rule
+
+* Loop condition lo **`< length` use cheyali**
+* `<= length` error ki reason
+
+---
+
+## 🔹 Return Type Rule
+
+* Method return type cheppina value ne return cheyali
+* Type mismatch compile-time error
+
+---
+
+## 🔹 Access Rule
+
+* `private` members class bayata access cheyalem
+* `public` members anywhere access cheyachu
+
+---
+
+## 🔹 Compiler vs Logic Rule
+
+* Compile-time error → syntax / language rule issue
+* Wrong output → logic issue
+
+---
+
+## 🧠 FINAL REMEMBER POINT
+
+* **Java lo most errors logic valla kaadu**
+* **Language rules break ayite compiler stop chestundi**
+
+---
+
+

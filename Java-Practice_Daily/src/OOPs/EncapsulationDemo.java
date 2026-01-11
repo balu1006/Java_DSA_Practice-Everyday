@@ -47,3 +47,13 @@ public class EncapsulationDemo {
         myAcct.deposit(-1000); // ❌ Logic will stop this.
     }
 }
+
+/* 🧠 INTELLIJ MAGIC TRICK (Shortcut)
+Real life lo manam get..., set... ani type cheyamu. IntelliJ chestundi.
+Just private int age; ani rayi.
+Next line lo Right Click -> Generate -> Getter and Setter.
+Select variable -> OK.
+Boom! Code automatic ga vachestundi. Try chesi chudu!
+Idi Encapsulation.
+Data ni Private cheyi.
+Keys (Methods) ni Public cheyi.*/
