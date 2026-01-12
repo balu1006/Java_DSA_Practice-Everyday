@@ -22,3 +22,7 @@ public class DSA_Time_and_Space {
         // Total Steps: 5 * 5 = 25 !!
     }
 }
+
+/* $O(1)$: Cutting 1 Apple.
+(Instant).$O(N)$: Peeling 100 Potatoes. (More potatoes = More time). 1000 = 1000 steps
+$O(N^2)$: Matching every spice with every vegetable. (Too much complex work!).*/ // Total Steps: 5 * 5 = 25 !!
